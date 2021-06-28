@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <Bold>{query}</code>
+    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <Code>{query}</code>
 Join :@ottrockersz "
         
     try:
