@@ -89,8 +89,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👥Channel-1 ', url='https://t.me/ottrockersz'),
-        InlineKeyboardButton('👥Channel -2', url ='https://t.me/OttRockerDub')
+        InlineKeyboardButton('👥Channel-1 ', url='https://t.me/Tentkottamovies'),
+        InlineKeyboardButton('👥Channel -2', url ='https://t.me/TkM_Linkz')
     ],[
         InlineKeyboardButton('Group ⭕', url='https://t.me/Tentkottagroup')
     ],[
